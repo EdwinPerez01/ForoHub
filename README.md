@@ -1,6 +1,6 @@
 # 🚀 Challenge Back End - Foro Hub
 
-¡Hola! Bienvenidos y bienvenidas a un nuevo desafío. En esta oportunidad, vamos a poner en práctica los conocimientos adquiridos en Java y Spring Boot. La propuesta es crear nuestra propia API REST con la temática de un foro. ¿Qué les parece construir su propio foro? Un lugar donde las personas puedan crear sus tópicos con sus dudas o con sugerencias que otras personas puedan también responder e interactuar dentro de una comunidad. Suena genial, ¿verdad?
+¡Hola! Bienvenidos y bienvenidas. ¿Qué les parece construir su propio foro? Un lugar donde las personas puedan crear sus tópicos con sus dudas o con sugerencias que otras personas puedan también responder e interactuar dentro de una comunidad. Suena genial, ¿verdad?
 
 ## 📋 Tabla de Contenidos
 1. [Descripción](#descripción)
